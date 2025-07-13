@@ -1,0 +1,10 @@
+a int ;
+b string
+c float ; ;
+
+if a = b then
+	print a + c
+else
+	begin
+	print b + "hola"
+end

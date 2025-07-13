@@ -1,0 +1,12 @@
+x double ;
+y long ;
+
+if x == y then
+ print x * y
+else
+ begin
+  if x / y then
+   x := y * x
+  else
+   y := x / y
+ end
